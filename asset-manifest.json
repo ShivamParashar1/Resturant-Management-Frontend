@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Resturant-Management-Project/static/css/main.f855e6bc.css",
+    "main.js": "/Resturant-Management-Project/static/js/main.6658f791.js",
+    "static/js/787.d6c97ff1.chunk.js": "/Resturant-Management-Project/static/js/787.d6c97ff1.chunk.js",
+    "static/media/logo.png": "/Resturant-Management-Project/static/media/logo.c27b9041ebbf351849d0.png",
+    "static/media/list.png": "/Resturant-Management-Project/static/media/list.e71dbb0884633552661b.png",
+    "index.html": "/Resturant-Management-Project/index.html",
+    "main.f855e6bc.css.map": "/Resturant-Management-Project/static/css/main.f855e6bc.css.map",
+    "main.6658f791.js.map": "/Resturant-Management-Project/static/js/main.6658f791.js.map",
+    "787.d6c97ff1.chunk.js.map": "/Resturant-Management-Project/static/js/787.d6c97ff1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.6658f791.js"
+  ]
+}
